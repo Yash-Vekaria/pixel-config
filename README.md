@@ -1,5 +1,5 @@
 
-# Longitudinal Measurement and Analysis of Meta Pixel Configurations on the Web
+# PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations
 
 ## Project Summary
 
