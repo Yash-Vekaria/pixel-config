@@ -1,6 +1,16 @@
 
 # PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations
 
+This work has been accepted to 26th ACM Internet Measurement Conference (IMC) 2026.
+```
+@article{ghani2026pixelconfig,
+  title={PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations},
+  author={Ghani, Abdullah and Vekaria, Yash and Shafiq, Zubair},
+  journal={arXiv preprint arXiv:2603.09380},
+  year={2026}
+}
+```
+
 ## Project Summary
 
 Tracking pixels are widely used to optimize online ad campaigns through personalization, re-targeting, and conversion tracking. While prior research has primarily focused on detecting the prevalence of tracking pixels, limited attention has been given to variations in their configurations across websites. A tracking pixel may be configured differently on different websites.
