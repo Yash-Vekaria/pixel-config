@@ -3,10 +3,11 @@
 
 This work has been accepted to 26th ACM Internet Measurement Conference (IMC) 2026.
 ```
-@article{ghani2026pixelconfig,
-  title={PixelConfig: Longitudinal Measurement and Reverse-Engineering of Meta Pixel Configurations},
+@inproceedings{ghani2026pixelconfig,
+  title={Pixelconfig: Longitudinal measurement and reverse-engineering of meta pixel configurations},
   author={Ghani, Abdullah and Vekaria, Yash and Shafiq, Zubair},
-  journal={arXiv preprint arXiv:2603.09380},
+  booktitle={Proceedings of the 2026 ACM Internet Measurement Conference},
+  pages={944--962},
   year={2026}
 }
 ```
